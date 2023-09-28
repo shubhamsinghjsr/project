@@ -1,0 +1,49 @@
+/* .form-inline{
+   
+    position: absolute;
+    top: 23%;
+    right: 50%;
+
+}  */
+
+
+
+#home {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  /* border: 5px solid black; */
+}
+
+h1{
+    position: absolute;
+    top: -53%;
+  left: 42%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    color: red;
+    
+}
+
+.dropdown-menu{
+    width: 50rem;
+    height: 30rem;
+}
+.form-control{
+    width: 45rem;
+    padding: 1rem 0.6rem;
+    margin: 2rem 1.5rem;
+}
+
+
+
+
+  
